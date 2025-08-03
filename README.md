@@ -1,5 +1,5 @@
 # Ayna-Unet-Model-coloured-polygon
-**->**Importnat points to consider
+**->** Importnat points to consider
 1-the dataset used in this project is uploaded in the repo and in case you run this file kindly provide the zip file it will automatically unzip it
 2-the API key is also written in comment in case u need it for the W&B
 3-the model that is exported is uploaded in the drive and link is submitted in the form

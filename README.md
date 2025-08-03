@@ -1,8 +1,12 @@
 # Ayna-Unet-Model-coloured-polygon
 **->** Importnat points to consider
 1-the dataset used in this project is uploaded in the repo and in case you run this file kindly provide the zip file it will automatically unzip it
+
 2-the API key is also written in comment in case u need it for the W&B
-3-the model that is exported is uploaded in the drive and link is submitted in the form
+
+
+3-the model that is exported is uploaded in the drive and link is submitted in the google form
+
 solution of assesment
 **->** Polygon Colorizer using UNet
 This project presents a deep learning-based solution for automatically colorizing polygon shapes using a modified UNet architecture. Given an input polygon image (e.g., triangle, star, hexagon) and a target color name (e.g., red, blue, cyan), the model generates a colored version of the shape.
